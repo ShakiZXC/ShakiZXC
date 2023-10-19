@@ -9,5 +9,4 @@ ShakiZXC/ShakiZXC is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-вот, надо !
 1й шаг с гит на гитхабе
